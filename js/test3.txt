@@ -1,0 +1,35 @@
+test 3
+1. Networking overview 
+2. Physical layer - Signaling
+3. data link layer - Error control
+4. network layer - identifying and location destination
+5. transport layer - Segmentation and reassembly of packets
+6. application layer -Specify user needs
+7. wide area networks
+
+Packetization: Breaking down user data into small segments.
+
+CRC - Sender Operation
+
+Converting from decimal to binary
+
+IP Address tracert 
+
+IPV4 162.250.217.228
+
+Global.WWW.LocalNetwork.Host
+
+A -Large
+B -Medium
+C -Small
+
+IPV6 2^128
+
+loopback used for testing
+
+not routable ip address
+127.0.0.0.1
+0.0.0.0.0
+192.168.1.0
+
+port 80
